@@ -1,5 +1,6 @@
 import 'package:chat_app/models/user_model.dart';
 
+
 class Message {
   final User sender;
   final String
